@@ -6,16 +6,16 @@
 All'interno di questa repo troverai tutte le tesi sviluppate in questi anni dai tesisti del SeSaLab.
 
 ## A cosa serve questa repo?
-Lo scopo è questa repo è quello di permettere la consultazione di tutto il materiale prodotto dai nostri tesisti per condividere la conocenza tra gli studenti.
+Lo scopo è questa repo è quello di permettere la consultazione di tutto il materiale prodotto dai nostri tesisti per condividere la conoscenza tra gli studenti.
 
 ## Perché dovei condividere il mio materiale con i futuri tesisti?
-Da un lato crediamo che la condivisione della conoscenza (sopratutto in ambito informatico) sia fondamentale per permettere alla comunità di crescere, dall'altro invece crediamo che  ogni tesi  meriti di essere letta ed approfondita!
+Da un lato crediamo che la condivisione della conoscenza (soprattutto in ambito informatico) sia fondamentale per permettere alla comunità di crescere, dall'altro invece crediamo che ogni tesi  meriti di essere letta e approfondita!
 Accettando di caricare tutto il materiale prodotto all'interno di questa repo, garantirai quindi una maggiore visibilità a ciò che hai ottenuto con tanta fatica.
 
 
 ## Ulteriori informazioni
-Ricordati inoltre che il SeSaLab è molto sensibile anche alla problematica ambientale, non chiediamo quindi di stampare delle copie delle vostre tesi da consegnarci, ma se proprio volete fare una buona azione, potete donare un albero all'interno della nostra foresta su Treedom
+Ricordati inoltre che il SeSaLab è molto sensibile alla problematica ambientale. Non chiediamo quindi di stampare delle copie delle vostre tesi da consegnarci, ma se ti va di fare una buona azione, puoi donare un albero alla nostra foresta su Treedom
 
 [SeSa Random Forest](https://www.treedom.net/it/user/sesalab/event/sesa-random-forest).
 
-Se vuoi ulteriori informazioni sul gruppo SeSaLab, ti invitiamo a [cliccare qui](https://sesalabunisa.github.io/it/index.html)
+Se desideri ulteriori informazioni sul gruppo di ricerca SeSaLab, ti invitiamo a [cliccare qui](https://sesalabunisa.github.io/it/index.html)
