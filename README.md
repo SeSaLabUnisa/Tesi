@@ -5,7 +5,7 @@
 
 ## Cosa troverai all'interno di questa repository?
 
-All'interno di questa repo troverai alcune delle tesi sviluppate dai tesisti del ![SeSaLab](https://sesalabunisa.github.io/).
+All'interno di questa repo troverai alcune delle tesi sviluppate dai tesisti del [SeSaLab](https://sesalabunisa.github.io/).
 
 ## A cosa serve questo repository?
 
